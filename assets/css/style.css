@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+body{
+  font-family: 'Poppins', sans-serif;
+  color: #4F4F4F;
+}
+.container{
+  @apply mx-auto;
+  max-width: 1400px;
+}
+h1,h2,h3,h4,h5,h6{
+  @apply font-medium
+}
+.font-size-32{
+  font-size: 32px;
+}
+.bs-icon-box{
+  width: 60px;
+  height: 60px;
+}
+.bs-bg-dark-orange{
+  background-color: #FF5C00;
+}
+.bs-gray-33{
+  color: #333333;
+}
+.bs-bg-button{
+  background-color:#4F4F4F;
+}
+.bs-bg-green{
+  background-color: #27AE60;
+}
+.bs-dark-orang-color{
+  color: #FF5C00;
+}
+.bs-bg-light-green{
+  background: #EBFAEB;
+}
+.bs-gray-3{
+  color: #828282;
+}
+.bs-footer-bg{
+ background: #F5F5F5;
+;
+}
+.bs-line-hight-50{
+  line-height: 50px;
+}
+.bs-footer-icon-box{
+  transition: 0.4s;
+}
+.bs-gray-icon-color{
+  filter: brightness(0.3);
+}
+.bs-footer-icon-box:hover{
+  background-color: #FF5E4D;
+}
+.bs-footer-icon-box:hover img{
+  filter: brightness(100);
+}
+.bs-green-color{
+  color: #27AE60;
+}
+.font-size-70{
+  font-size: 70px;
+}
+.font-size-22{
+  font-size: 22px;
+}
+.font-size-46{
+  font-size: 46px;
+}
+
+/*Vue Slick Slider Css*/
+.hero-slide ul.slick-dots {
+  position: absolute;
+  right: 2%;
+  top: 50%;
+  transform: translate(0,-50%);
+}
+
+.hero-slide ul.slick-dots li button {
+  text-indent: -9999px;
+  height: 14px;
+  width: 14px;
+  background: #999999;
+  border-radius: 50%;
+  opacity: 0.3;
+}
+
+.hero-slide ul.slick-dots li.slick-active {
+  border: 1px solid #FF5C00;
+  width: 20px;
+  display: flex;
+  height: 20px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-slide ul.slick-dots li.slick-active button {
+  background: #FF5C00;
+  opacity: 1;
+}
+.hero-slide ul.slick-dots li {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3px;
+}
+
+.bs-category-bg{
+  background-color: #F7F7F7;
+}
+.bs-category-slide
+.slick-slide >div {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.bs-category-slide
+.slick-list {
+  margin-left: -9px !important;
+  margin-right: -7.59px !important;
+}
+.custom-arrow {
+  width: 40px;
+  height: 40px;
+  transition: 0.3s;
+  background-color: #F2F2F2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #999999;
+  position: absolute;
+  padding: 10px;
+  border-radius: 50%;
+  right: 0;
+  top: -89px;
+  cursor: pointer;
+}
+
+.custom-arrow.slick-arrow.slick-prev {
+  right: 57px;
+}
+.custom-arrow:hover {
+  background: #27AE60;
+  color: #fff;
+}
+.bs-button{
+  @apply bs-bg-green py-2 px-8 text-white rounded-full text-lg font-medium;
+}
+.bs-white-button{
+  @apply bg-white py-2 px-8 bs-dark-orang-color rounded-full text-lg font-medium;
+}
+.promo-bg{
+  background-image: url("./assets/img/promo-bg-1.jpg");
+}
+.promo-bg-2{
+  background-image: url("./assets/img/promo-bg-2.jpg");
+}
