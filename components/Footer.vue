@@ -38,7 +38,7 @@
     <div class="w-1/4">
       <div class="flex items-center">
         <div class="min-w-max w-20 h-20 bs-bg-light-green flex items-center justify-center rounded-lg mr-4">
-          <img class="w-14" src="~/assets/img/Vector-3.png" alt="">
+          <img class="w-14" src="~/assets/img/vector-3.png" alt="">
         </div>
         <div class="min-w-max">
           <h4 class="text-xl font-medium bs-gray-33 mb-2">Best Prices & Offers</h4>
