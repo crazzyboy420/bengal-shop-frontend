@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "Product full name -1",
+    "price": 70,
+    "sale": 59,
+    "image": "https://picsum.photos/200/300",
+    "sku": "KE-008819",
+    "categories": [
+      {
+        "name": "Fruits"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Food"
+      },
+      {
+        "name": "Fruits"
+      },
+      {
+        "name": "Vegetables"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Product full name -2",
+    "price": 70,
+    "sale": 59,
+    "image": "https://picsum.photos/200/300",
+    "sku": "KE-008819",
+    "categories": [
+      {
+        "name": "Fruits"
+      },
+      {
+        "name": "Vegetables"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Food"
+      },
+      {
+        "name": "Fruits"
+      },
+      {
+        "name": "Vegetables"
+      }
+    ]
+  },
+  {
+  "id": 3,
+  "name": "Product full name -3",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},
+{
+  "id": 4,
+  "name": "Product full name -4",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},
+  {
+  "id": 5,
+  "name": "Product full name -5",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},{
+  "id": 6,
+  "name": "Product full name -6",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},{
+  "id": 7,
+  "name": "Product full name -7",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},{
+  "id": 8,
+  "name": "Product full name -8",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},{
+  "id": 9,
+  "name": "Product full name -9",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},{
+  "id": 101,
+  "name": "Product full name -101",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},{
+  "id": 11,
+  "name": "Product full name -11",
+  "price": 70,
+  "sale": 59,
+  "image": "https://picsum.photos/200/300",
+  "sku": "KE-008819",
+  "categories": [
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Fruits"
+    },
+    {
+      "name": "Vegetables"
+    }
+  ]
+},
+  {
+    "id": 12,
+    "name": "Product full name -12",
+    "price": 70,
+    "sale": 59,
+    "image": "https://picsum.photos/200/300",
+    "sku": "KE-008819",
+    "categories": [
+      {
+        "name": "Fruits"
+      },
+      {
+        "name": "Vegetables"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Food"
+      },
+      {
+        "name": "Fruits"
+      },
+      {
+        "name": "Vegetables"
+      }
+    ]
+  }
+]
